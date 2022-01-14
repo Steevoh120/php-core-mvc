@@ -1,0 +1,14 @@
+{
+  "name": "php-mvc/Core",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Steevoh120",
+      "email": "sngari57@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
